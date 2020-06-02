@@ -1,0 +1,15 @@
+.form input,
+.form div {
+    margin-right: 10px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.image {
+    padding: 20px 0;
+    border-bottom: 1px solid #ccc;
+}
+.image img {}
+.image span {
+    display: block;
+}
